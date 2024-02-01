@@ -1,0 +1,6 @@
+name: SpartanosKotlinJdk
+description: Jdk kotlin
+author: zKingOfKill
+
+version: '1.0.0'
+main: me.spartanoscraft.kotlinjdk.Main
